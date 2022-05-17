@@ -1,6 +1,6 @@
 # about me 🌟
 ---------------
-Hi! My name is Aylene Santillan and I am a current college student studying computer science with a minor in mathematics 👩🏽‍💻
+Hi! My name is Aylene Santillan (or ilean) and I am a current college student studying computer science with a minor in mathematics 👩🏽‍💻
 
 * I am currently learning JavaScript and SQL and enhancing my skills in Python!
 * I am intersted in both database analytics and software development 
